@@ -12,8 +12,6 @@
 
 # webpack-stylish
 
-> ℹ️  DEPRECATION. Reporters moved into [webpack-cli](https://github.com/webpack/webpack-cli) as feature. The issue for [webpack-cli](https://github.com/webpack/webpack-cli) https://github.com/webpack/webpack-cli/issues/575.
-
 A stylish, opinionated reporter for webpack.
 
 ![](assets/screenshot.png)
