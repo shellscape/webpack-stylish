@@ -29,7 +29,7 @@
     "log-symbols": "^2.2.0",
     "plur": "^2.1.2",
     "pretty-bytes": "^4.0.2",
-    "strip-ansi": "^4.0.0",
+    "strip-ansi": "^7.0.0",
     "text-table": "^0.2.0",
     "wordwrap": "^1.0.0"
   },
